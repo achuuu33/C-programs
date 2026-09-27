@@ -73,37 +73,3 @@ C-programs/
 ├── Queue
 └── Other Practice Programs
 ```
-
-> The structure may change as I continue learning and adding new programs.
-
-## 🚀 Learning Progress
-
-I am continuously adding programs as I learn new concepts and improve my problem-solving skills.
-
-**Current focus:**
-
-* Strengthening C fundamentals
-* Practicing arrays and strings
-* Revising pointers
-* Practicing basic data structures
-* Improving problem-solving through regular coding
-
-## 📈 Future Plans
-
-As I continue learning, I plan to add:
-
-* More problem-solving exercises
-* Advanced data structure implementations
-* Algorithm practice
-* More efficient solutions
-* DSA practice programs
-
-## 🔄 Updating the Repository
-
-I regularly update this repository with new programs and practice exercises as part of my learning journey.
-
----
-
-**Learning → Practicing → Building → Improving** 🚀
-
-⭐ This repository represents my ongoing journey in learning C programming.
